@@ -11,7 +11,7 @@ use Cwd;
 $cwd = getcwd;
 
 
-open (FH1, "/home/bioinfo/Desktop/test/country.txt");
+open (FH1, "country.txt");
 
 @country = <FH1>;
 
