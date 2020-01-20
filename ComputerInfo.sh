@@ -45,10 +45,3 @@ nvidia-smi
 
 # GPU usage (Intel)
 sudo intel_gpu_top
-
-
-
-
-
-
-
