@@ -5,7 +5,7 @@ uname -a
 sudo lshw
 sudo lshw -short
 
-#Product information
+# Product information
 sudo dmidecode --type system
 
 # OS
