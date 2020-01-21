@@ -45,3 +45,13 @@ nvidia-smi
 
 # GPU usage (Intel)
 sudo intel_gpu_top
+
+# List all available disk drive
+lsscsi
+
+# Disk Drive capabilities info
+cat /proc/sys/dev/cdrom/info
+
+
+
+
